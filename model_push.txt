@@ -1,0 +1,2 @@
+model.push_to_hub("", token = "") # Online saving
+tokenizer.push_to_hub("", token = "") # Online saving
